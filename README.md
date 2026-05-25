@@ -1,26 +1,6 @@
 # fraudshield
 An app that lets anyone upload a CSV of transactions and instantly get fraud risk scores powered by machine learning.
 
-🚀 Deploy to Streamlit Cloud (Free — 5 minutes)
-Step 1 — Push to GitHub
-
-Create a new GitHub repository (e.g. fraudshield)
-Upload these two files:
-
-app.py
-requirements.txt
-
-
-
-Step 2 — Deploy on Streamlit Cloud
-
-Go to https://share.streamlit.io
-Sign in with GitHub
-Click "New app"
-Select your repository → branch: main → Main file: app.py
-Click Deploy — your app is live in ~2 minutes!
-
-
 💻 Run Locally
 bash# 1. Install dependencies
 pip install -r requirements.txt
