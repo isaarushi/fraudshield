@@ -5,7 +5,7 @@ An app that lets anyone upload a CSV of transactions and instantly get fraud ris
 bash# 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Run the app
+# 1. Run the app
 streamlit run app.py
 Then open http://localhost:8501 in your browser.
 
